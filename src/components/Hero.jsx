@@ -20,7 +20,7 @@ const Hero = () => {
         </div>
         <div className="hero-image-wrapper">
           <img
-            src="./src/assets/images/jayme_portfolio 12345/49f4b1f0-3933-47f0-a1a4-0d29bc46a734.jpg"
+            src="/49f4b1f0-3933-47f0-a1a4-0d29bc46a734.jpg"
             alt="John Andrei Jayme"
             className="hero-image"
           />

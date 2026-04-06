@@ -5,13 +5,13 @@ const Projects = () => {
     {
       title: 'Personal Portfolio Website',
       description: 'A responsive portfolio website built with React, showcasing my skills and projects.',
-      image: './src/assets/images/image.png',
+      image: '/image.png',
       link: '#'
     },
     {
       title: 'AwesomeTodos project',
       description: 'A responsive portfolio website built with React, showcasing my skills and projects.',
-      image: './src/assets/images/image copy.png',
+      image: '/image copy.png',
       link: '#'
     }
   ];
